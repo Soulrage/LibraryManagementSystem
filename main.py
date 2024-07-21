@@ -45,6 +45,7 @@ while True:
 
     elif command == "Поиск_книги":
         try:
+            count = 0
             search_key, search_value = args.strip().split('" "')
             search_key = search_key.strip('"')
             search_value = search_value.strip('"')
@@ -52,8 +53,12 @@ while True:
             for item in library.search_book(search_criteria):
                 for key, value in item.items():
                     print(f"ID: {key}")
+                    count += 1
                     for i, j in value.items():
                         print(f"{i}: {j}")
+                    print("\n")
+            print(f"{count} было найдено ")
+            print("\n")
         except ValueError:
             print("Неверный формат команды. Используйте: Поиск_книги \"ключ\" \"значение\"")
 
