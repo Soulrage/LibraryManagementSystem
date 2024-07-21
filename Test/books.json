@@ -1,0 +1,56 @@
+{
+    "1": {
+        "title": "Test Book",
+        "author": "Test Author",
+        "year": "2024",
+        "status": "в наличии"
+    },
+    "2": {
+        "title": "Test Book",
+        "author": "Test Author",
+        "year": "2024",
+        "status": "в наличии"
+    },
+    "3": {
+        "title": "Test Book",
+        "author": "Test Author",
+        "year": "2024",
+        "status": "в наличии"
+    },
+    "5": {
+        "title": "Test Book",
+        "author": "Test Author",
+        "year": "2024",
+        "status": "в наличии"
+    },
+    "7": {
+        "title": "Test Book",
+        "author": "Test Author",
+        "year": "2024",
+        "status": "в наличии"
+    },
+    "8": {
+        "title": "Test Book",
+        "author": "Test Author",
+        "year": "2024",
+        "status": "в наличии"
+    },
+    "10": {
+        "title": "Test Book",
+        "author": "Test Author",
+        "year": "2024",
+        "status": "в наличии"
+    },
+    "11": {
+        "title": "Test Book",
+        "author": "Test Author",
+        "year": "2024",
+        "status": "в наличии"
+    },
+    "12": {
+        "title": "Test Book",
+        "author": "Test Author",
+        "year": "2024",
+        "status": "в наличии"
+    }
+}
